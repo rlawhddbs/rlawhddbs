@@ -1,4 +1,4 @@
-<div class=top width = 500px>
+<div class=top width=500px height=400px>
   
 </div>
 
