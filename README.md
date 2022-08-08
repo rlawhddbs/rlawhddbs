@@ -21,8 +21,6 @@
 
 <div class="bottom-panel" align="right">
   
-  <br>
-  
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlawhddbs&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
   ### Programming Stacks & Tools <img src="https://cdn-icons-png.flaticon.com/512/588/588395.png" width="15px" height="15px"/>
