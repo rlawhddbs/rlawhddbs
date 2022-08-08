@@ -6,7 +6,7 @@
   
   ### 김종윤
   
-  <img src="https://user-images.githubusercontent.com/103932812/183397073-74d425f1-b272-4dd2-8ed4-c9dbfc3dc5a0.png" width="25px" height="25px" align="top"/> BIND 7기 + SERVER <img src="https://miro.medium.com/max/1050/1*O68LbDvD5Dcsnez73M7v4Q.png" width="27px" height="25px" align="top"/>
+  BIND 7기 + SERVER
   
   <br>
   
