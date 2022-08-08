@@ -1,7 +1,3 @@
-<div class=top width=500px height=400px>
-  
-</div>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlawhddbs&theme=dark)](https://github.com/rlawhddbs/github-readme-stats)
 
 ### Programming Stacks
